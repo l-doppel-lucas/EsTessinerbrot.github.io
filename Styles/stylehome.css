@@ -5,13 +5,6 @@ html, body {
   background-color: #333;
 }
 
-.parallax img {
-  opacity: 1;
-}
-.parallax-container parallax {
-  z-index: 0;
-}
-
 @media screen and (min-width: 1000px) {
   body {
     -webkit-animation: fadein 5s;
